@@ -2,9 +2,9 @@
         <h2 style="color: #3498db;">About Me</h2>
         <p style="font-size: 18px; line-height: 1.6;">Hey there! I'm <span style="font-weight: bold; color: #e74c3c;">TIKIRA - SL</span>, a passionate software developer and multimedia enthusiast. I specialize in blending technical expertise with creative expression. I love building dynamic web applications, solving complex coding challenges, and creating captivating multimedia content.</p>
 
-        <p style="font-size: 18px; line-height: 1.6;">From crafting efficient, scalable software in languages like <span style="font-weight: bold; color: #e74c3c;">Python, JavaScript, and Java</span> to designing stunning visuals and editing videos, I thrive in a space where technology and creativity come together.</p>
+<p style="font-size: 18px; line-height: 1.6;">From crafting efficient, scalable software in languages like <span style="font-weight: bold; color: #e74c3c;">Python, JavaScript, and Java</span> to designing stunning visuals and editing videos, I thrive in a space where technology and creativity come together.</p>
 
-        <h3 style="color: #3498db;">What I Do:</h3>
+<h3 style="color: #3498db;">What I Do:</h3>
         <ul style="list-style-type: none; padding-left: 0;">
             <li style="margin: 10px 0; font-size: 18px;"> <span style="font-weight: bold; color: #e74c3c;">Software Development:</span> Building dynamic web apps using the latest technologies and frameworks. Passionate about problem-solving and crafting solutions that are both functional and efficient.</li>
             <li style="margin: 10px 0; font-size: 18px;"> <span style="font-weight: bold; color: #e74c3c;">Web & App Development:</span> Full-stack development with experience in front-end frameworks like React, and back-end technologies such as Django, Node.js, and Flask.</li>
@@ -12,10 +12,10 @@
             <li style="margin: 10px 0; font-size: 18px;"> <span style="font-weight: bold; color: #e74c3c;">Collaborative Projects:</span> I enjoy working with diverse teams to bring ideas to life. Whether you need a fresh perspective or technical expertise, I’m always excited to collaborate.</li>
         </ul>
 
-        <p style="font-size: 18px; line-height: 1.6;">I’m always eager to connect with like-minded individuals and explore new opportunities. Let's build something great together! 🚀</p>
+<p style="font-size: 18px; line-height: 1.6;">I’m always eager to connect with like-minded individuals and explore new opportunities. Let's build something great together! 🚀</p>
     </section>
 
-    <footer style="background-color: #2c3e50; color: white; text-align: center; padding: 10px; position: fixed; width: 100%; bottom: 0;">
+<footer style="background-color: #2c3e50; color: white; text-align: center; padding: 10px; position: fixed; width: 100%; bottom: 0;">
         <p>Let's create something awesome together! 🎥📸🚀</p>
     </footer>
 <br><br>
