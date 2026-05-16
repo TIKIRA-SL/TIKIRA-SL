@@ -1,6 +1,6 @@
 <section style="padding: 40px; max-width: 800px; margin: auto; background-color: #fff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
         <h2 style="color: #3498db;">About Me</h2>
-        <p style="font-size: 18px; line-height: 1.6;">Hey there! I'm <span style="font-weight: bold; color: #e74c3c;">TIKIRA - SL</span>, a passionate software developer and multimedia enthusiast. I specialize in blending technical expertise with creative expression. I love building dynamic web applications, solving complex coding challenges, and creating captivating multimedia content.</p>
+        <p style="font-size: 18px; line-height: 1.6;">Hey there! I'm <span style="font-weight: bold; color: #e74c3c;">TIKIRA</span>, a passionate software developer and multimedia enthusiast. I specialize in blending technical expertise with creative expression. I love building dynamic web applications, solving complex coding challenges, and creating captivating multimedia content.</p>
 
 <p style="font-size: 18px; line-height: 1.6;">From crafting efficient, scalable software in languages like <span style="font-weight: bold; color: #e74c3c;">Python, JavaScript, and Java</span> to designing stunning visuals and editing videos, I thrive in a space where technology and creativity come together.</p>
 
